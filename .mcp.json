@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "metalend": {
+      "type": "http",
+      "url": "https://mcp.metalend.tech/mcp"
+    }
+  }
+}
