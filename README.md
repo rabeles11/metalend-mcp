@@ -2,6 +2,9 @@
 
 **Your co-pilot for stablecoin yield — from research all the way to execution.**
 
+Browse, deposit, withdraw & rebalance stablecoin positions on Aave, Morpho & Euler.
+Track yields, balances, rewards & rebalancer settings across all major EVM chains.
+
 MetaLend is a remote MCP server that turns your AI agent into both a yield analyst
 and a hands-on operator. Instead of manually comparing rates across lending
 protocols and chains, MetaLend scans the market for you: it monitors the
