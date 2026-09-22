@@ -76,7 +76,7 @@ Point your client at the URL above using the HTTP (Streamable HTTP) transport.
 
 **Protocols:** Aave, Morpho, Euler
 
-**Chains:** Multiple EVM chains, including Base, Ethereum, Polygon, Arbitrum, and Linea
+**Chains:** Multiple EVM chains, including Base, Ethereum, Polygon, Arbitrum, Linea, and Arc
 
 ---
 
@@ -122,7 +122,7 @@ explicitly on every `submit_*` call.
 ## Use cases
 
 - Browse current stablecoin yields on Aave, Morpho, and Euler
-- Compare rates across Base, Ethereum, Polygon, Arbitrum, and Linea
+- Compare rates across Base, Ethereum, Polygon, Arbitrum, Linea, and Arc
 - Check a wallet's balances, blended APY, and pending rewards across every chain
 - Deposit stablecoins into a chosen pool
 - Withdraw stablecoins from a pool
