@@ -2,7 +2,7 @@
 
 **Your co-pilot for stablecoin yield — from research all the way to execution.**
 
-Browse, deposit, withdraw & rebalance stablecoin positions on Aave, Morpho & Euler.
+Browse, deposit, withdraw & rebalance stablecoin positions on Aave, Aave V4, Morpho & Euler.
 Track yields, balances, rewards & rebalancer settings across all major EVM chains.
 
 MetaLend is a remote MCP server that turns your AI agent into both a yield analyst
@@ -74,7 +74,7 @@ Point your client at the URL above using the HTTP (Streamable HTTP) transport.
 
 ## Coverage
 
-**Protocols:** Aave, Morpho, Euler
+**Protocols:** Aave, Aave V4, Morpho, Euler
 
 **Chains:** Multiple EVM chains, including Base, Ethereum, Polygon, Arbitrum, and Linea
 
@@ -121,7 +121,7 @@ explicitly on every `submit_*` call.
 
 ## Use cases
 
-- Browse current stablecoin yields on Aave, Morpho, and Euler
+- Browse current stablecoin yields on Aave, Aave V4, Morpho, and Euler
 - Compare rates across Base, Ethereum, Polygon, Arbitrum, and Linea
 - Check a wallet's balances, blended APY, and pending rewards across every chain
 - Deposit stablecoins into a chosen pool
